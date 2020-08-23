@@ -7,7 +7,7 @@ These are List of Data Science Projects(POC's) build to develop my skills and to
 * Built an Logistic Regression model.
 * Deployed the model using Flask.
 ## Screenshots of the Project
-![Movie Review](https://github.com/krishna1711/KrishnaMohan-Porfolio/blob/master/images/sentimentanalysis/movieReview01.PNG)
+![](https://github.com/krishna1711/KrishnaMohan-Porfolio/blob/master/images/sentimentanalysis/movieReview01.PNG)
 ![Flask Web App](https://github.com/krishna1711/KrishnaMohan-Porfolio/blob/master/images/sentimentanalysis/loading01.PNG)
-![Result](https://github.com/krishna1711/KrishnaMohan-Porfolio/blob/master/images/sentimentanalysis/result01.PNG)
+![](https://github.com/krishna1711/KrishnaMohan-Porfolio/blob/master/images/sentimentanalysis/result01.PNG)
 
