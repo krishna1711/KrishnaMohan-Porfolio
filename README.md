@@ -1,4 +1,3 @@
-# Krishna Mohan 
 These are List of Data Science Projects(POC's) build to develop my skills and to improve my understanding.
 
 # Project 1: [Movie Sentiment Analysis](https://github.com/krishna1711/ML_Projects/tree/master/MoviesSentimentAnalysis)
