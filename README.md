@@ -6,6 +6,7 @@ These are List of Data Science Projects(POC's) build to develop my skills and to
 * Text preprocessing and cleaning using NLTK.
 * Built an Logistic Regression model.
 * Deployed the model using Flask.
+## Few snapshots of Flask Application
 ![](https://github.com/krishna1711/KrishnaMohan-Porfolio/blob/master/images/sentimentanalysis/DemoImage.png)
 
 
